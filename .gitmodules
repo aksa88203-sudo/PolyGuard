@@ -2,3 +2,6 @@
     path = website
     url = https://github.com/QuantumLogicsLabs/PolyGuard-Website.git
     branch = main
+[submodule "api"]
+    path= src/api
+    url=https://huggingface.co/spaces/MUHAMMADSAADAMIN/polyguard-api

@@ -43,3 +43,5 @@ htmlcov/
 PolyGuard.txt
 
 models_saved/
+src/api/.git
+src/api/.git/
