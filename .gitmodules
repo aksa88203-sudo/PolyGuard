@@ -4,4 +4,4 @@
     branch = main
 [submodule "api"]
     path= src/api
-    url=https://huggingface.co/spaces/MUHAMMADSAADAMIN/polyguard-api
+    url= https://huggingface.co/spaces/MUHAMMADSAADAMIN/polyguard-api
